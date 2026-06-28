@@ -1,6 +1,6 @@
 # Restaurant Sales Analysis Dashboard
 
-## 1. Project Title
+### 1. Project Title
 Restaurant Sales Analysis Dashboard
 
 2. Description
