@@ -1,0 +1,3 @@
+- Search Microsoft Power Bi on web
+- Clik on Download and Download Power BI app.
+- Install Power BI app.
