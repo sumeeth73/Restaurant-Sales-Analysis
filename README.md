@@ -1,6 +1,6 @@
 # Restaurant Sales Analysis Dashboard
 #### Snapshot of the Dashboard
-https://github.com/sumeeth73/Restaurant-Sales-Analysis/blob/main/Snapshot%20of%20RSA%20Dashboard.png
+(https://github.com/sumeeth73/Restaurant-Sales-Analysis/blob/main/Snapshot_Dashboard.png)
 
 #### 1. Project Title
 Restaurant Sales Analysis Dashboard
