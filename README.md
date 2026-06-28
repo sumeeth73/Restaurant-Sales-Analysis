@@ -28,4 +28,4 @@ When the data grows the Dashboard has a capability to refresh and show the corre
 We will be adding features for filtering for a period of time and making more user friendly.
 
 #### 7. Snapshot of the Dashboard
-https://github.com/sumeeth73/Restaurant-Sales-Analysis/blob/main/Snapshot%20of%20RSA%20Dashboard.png
+[Dashboard Preview][https://github.com/sumeeth73/Restaurant-Sales-Analysis/blob/main/Snapshot%20of%20RSA%20Dashboard.png]
