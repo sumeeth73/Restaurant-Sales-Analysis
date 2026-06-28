@@ -1,4 +1,6 @@
 # Restaurant Sales Analysis Dashboard
+#### Snapshot of the Dashboard
+https://github.com/sumeeth73/Restaurant-Sales-Analysis/blob/main/Snapshot%20of%20RSA%20Dashboard.png
 
 #### 1. Project Title
 Restaurant Sales Analysis Dashboard
@@ -26,6 +28,3 @@ When the data grows the Dashboard has a capability to refresh and show the corre
  
 #### 6. Future Scope
 We will be adding features for filtering for a period of time and making more user friendly.
-
-#### 7. Snapshot of the Dashboard
-https://github.com/sumeeth73/Restaurant-Sales-Analysis/blob/main/Snapshot%20of%20RSA%20Dashboard.png
